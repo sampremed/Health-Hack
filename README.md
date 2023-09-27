@@ -1,70 +1,55 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mental Hack 
 
-## Available Scripts
+A brief description of what this project does and who it's for
 
-In the project directory, you can run:
+Embrace mental health awareness with us. Our website is your bridge to a more open, compassionate Haitian society. Let's talk, learn, and grow together."
+## Inspiration 
 
-### `npm start`
+We were motivated by the importance of mental health awareness, recognizing that educating people on this subject can help underscore its significance. Additionally, one of our group members had a personal experience involving a friend who tragically took their own life.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/827/datas/original.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## How we built it?
+We use React. JS Html, CSS Third-party ( Vectary)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
+what it does It has many features like high-quality 3D model rendering. The possibility to view the models from any angle. Models manipulation (Zoom in, Zoom out rotation to any angle) to get a better understanding of the models. Pictures can be taken at any angle and the functionality is within the website no need for an external tool.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/827/datas/original.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/828/datas/original.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/829/datas/original.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/826/datas/original.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Challenges we ran into?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Sleep deprivation Issues to implement React.JS in the project.
+## Accomplishment that we’re proud of
 
-### Advanced Configuration
+Effective team management after the sleep deprivation issues. Building a 3D model of the brain and different sections of the brain that are linked to mental disorders. Possibility to dive into those structures and better understand them. Creating a platform where people can go on to learn about mental disorders. Start fighting the stigma of social disorder in the Haitian/Black community through the creation of the project.
+## What's next?
+Community section where people with different mental health disorders can come and teach others about their struggles. Implement more models and discuss more precise topics with experts on the subjects. Make the project available to more students, faculties, or anyone interested. Add more interactions on the models present on the website.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Use Ar/Vr technologies to make the website available to a greater number of people and show them that Ar/Vr is more than gaming and can be used in an educative setting as well.
 
-### Deployment
+![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/830/datas/original.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
