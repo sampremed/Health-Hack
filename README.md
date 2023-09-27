@@ -8,6 +8,8 @@ Embrace mental health awareness with us. Our website is your bridge to a more op
 
 We were motivated by the importance of mental health awareness, recognizing that educating people on this subject can help underscore its significance. Additionally, one of our group members had a personal experience involving a friend who tragically took their own life.
 
+https://65071179dad6734607371908--delicate-muffin-3336f5.netlify.app/
+
 
 
 ![Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/594/827/datas/original.png)
