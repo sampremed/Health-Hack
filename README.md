@@ -1,8 +1,6 @@
 
 # Mental Hack 
 
-A brief description of what this project does and who it's for
-
 Embrace mental health awareness with us. Our website is your bridge to a more open, compassionate Haitian society. Let's talk, learn, and grow together."
 ## Inspiration 
 
